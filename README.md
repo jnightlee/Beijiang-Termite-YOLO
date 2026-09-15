@@ -7,3 +7,5 @@ The research addresses challenges associated with small termite targets, weak vi
 This repository serves as an archive for research datasets, prediction results, model run records, and trained weights, supporting model testing, verification of experimental results, and further research. Users should follow the computational environment, data processing procedures, and model configurations described in the accompanying paper to ensure consistency with the reported experimental settings.
 
 This repository provides supporting materials for the associated research paper. If you use the models, data, or experimental results in your research or publications, please acknowledge this repository and cite the corresponding paper. Full bibliographic details and citation instructions will be added once available.
+
+We are continuing to refine the model and welcome feedback and suggestions from the community.
