@@ -1,0 +1,39 @@
+{
+  "version": "4.0.0-beta.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          101.90476190476187,
+          629.5238095238095
+        ],
+        [
+          175.23809523809524,
+          629.5238095238095
+        ],
+        [
+          175.23809523809524,
+          681.9047619047618
+        ],
+        [
+          101.90476190476187,
+          681.9047619047618
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "YYCHJ-T3-054__20260320__20260320141603643.jpg",
+  "imageData": null,
+  "imageHeight": 1200,
+  "imageWidth": 1600
+}

@@ -1,0 +1,39 @@
+{
+  "version": "4.0.0-beta.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "mud_tube",
+      "score": null,
+      "points": [
+        [
+          576.7469879518072,
+          210.0
+        ],
+        [
+          981.5662650602409,
+          210.0
+        ],
+        [
+          981.5662650602409,
+          719.0
+        ],
+        [
+          576.7469879518072,
+          719.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "YYCHJ-T2-011__20260321__20260321211735750.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

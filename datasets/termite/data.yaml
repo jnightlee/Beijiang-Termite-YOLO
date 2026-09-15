@@ -1,0 +1,11 @@
+path: /workspace/datasets/termite
+train: images/train
+val: images/val
+
+nc: 5
+names:
+  0: termite
+  1: mud_tube
+  2: red_imported_fire_ant
+  3: common_ant
+  4: ant_egg

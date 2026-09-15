@@ -1,0 +1,39 @@
+{
+  "version": "4.0.0-beta.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "none",
+      "score": null,
+      "points": [
+        [
+          1.1494252873563218,
+          1.9540229885057339
+        ],
+        [
+          1278.16091954023,
+          1.9540229885057339
+        ],
+        [
+          1278.16091954023,
+          719.0
+        ],
+        [
+          1.1494252873563218,
+          719.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "YYCHJ-T2-003__20251225__20251225002712204.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

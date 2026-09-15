@@ -1,0 +1,243 @@
+{
+  "version": "4.0.0-beta.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          1099.0,
+          784.0
+        ],
+        [
+          1200.0,
+          784.0
+        ],
+        [
+          1200.0,
+          845.0
+        ],
+        [
+          1099.0,
+          845.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          546.0,
+          170.0
+        ],
+        [
+          644.0,
+          170.0
+        ],
+        [
+          644.0,
+          224.0
+        ],
+        [
+          546.0,
+          224.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          342.0,
+          102.0
+        ],
+        [
+          424.0,
+          102.0
+        ],
+        [
+          424.0,
+          203.0
+        ],
+        [
+          342.0,
+          203.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          269.0,
+          3.0
+        ],
+        [
+          421.0,
+          3.0
+        ],
+        [
+          421.0,
+          60.0
+        ],
+        [
+          269.0,
+          60.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          1016.0,
+          40.0
+        ],
+        [
+          1120.0,
+          40.0
+        ],
+        [
+          1120.0,
+          125.0
+        ],
+        [
+          1016.0,
+          125.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          1119.0,
+          37.0
+        ],
+        [
+          1223.0,
+          37.0
+        ],
+        [
+          1223.0,
+          96.0
+        ],
+        [
+          1119.0,
+          96.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          1222.0,
+          2.0
+        ],
+        [
+          1329.0,
+          2.0
+        ],
+        [
+          1329.0,
+          59.0
+        ],
+        [
+          1222.0,
+          59.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          55.0,
+          1104.0
+        ],
+        [
+          94.0,
+          1104.0
+        ],
+        [
+          94.0,
+          1154.0
+        ],
+        [
+          55.0,
+          1154.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": true,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "YYCHJ-T3-054__20260314__20260314070756332.jpg",
+  "imageData": null,
+  "imageHeight": 1200,
+  "imageWidth": 1600,
+  "description": ""
+}

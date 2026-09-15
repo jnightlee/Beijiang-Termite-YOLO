@@ -1,0 +1,185 @@
+{
+  "version": "4.0.0-beta.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "termite",
+      "score": null,
+      "points": [
+        [
+          785.1807228915662,
+          355.18072289156623
+        ],
+        [
+          855.6626506024096,
+          355.18072289156623
+        ],
+        [
+          855.6626506024096,
+          450.3614457831325
+        ],
+        [
+          785.1807228915662,
+          450.3614457831325
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "termite",
+      "score": null,
+      "points": [
+        [
+          677.9518072289156,
+          324.4578313253012
+        ],
+        [
+          740.6024096385541,
+          324.4578313253012
+        ],
+        [
+          740.6024096385541,
+          371.4457831325301
+        ],
+        [
+          677.9518072289156,
+          371.4457831325301
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "termite",
+      "score": null,
+      "points": [
+        [
+          703.2530120481928,
+          271.4457831325301
+        ],
+        [
+          768.9156626506024,
+          271.4457831325301
+        ],
+        [
+          768.9156626506024,
+          318.433734939759
+        ],
+        [
+          703.2530120481928,
+          318.433734939759
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "mud_tube",
+      "score": null,
+      "points": [
+        [
+          1079.7590361445782,
+          205.18072289156626
+        ],
+        [
+          1275.5421686746986,
+          205.18072289156626
+        ],
+        [
+          1275.5421686746986,
+          414.2168674698795
+        ],
+        [
+          1079.7590361445782,
+          414.2168674698795
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "mud_tube",
+      "score": null,
+      "points": [
+        [
+          655.6626506024096,
+          516.6265060240963
+        ],
+        [
+          967.7108433734938,
+          516.6265060240963
+        ],
+        [
+          967.7108433734938,
+          717.8313253012047
+        ],
+        [
+          655.6626506024096,
+          717.8313253012047
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "mud_tube",
+      "score": null,
+      "points": [
+        [
+          547.8313253012047,
+          206.3855421686747
+        ],
+        [
+          797.2289156626506,
+          206.3855421686747
+        ],
+        [
+          797.2289156626506,
+          441.92771084337346
+        ],
+        [
+          547.8313253012047,
+          441.92771084337346
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "YYCHJ-T2-011__20260207__20260207172601986.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280,
+  "description": ""
+}

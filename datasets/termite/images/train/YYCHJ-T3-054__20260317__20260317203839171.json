@@ -1,0 +1,126 @@
+{
+  "version": "4.0.0-beta.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          296.0,
+          288.0
+        ],
+        [
+          390.0,
+          288.0
+        ],
+        [
+          390.0,
+          402.0
+        ],
+        [
+          296.0,
+          402.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          570.0,
+          101.0
+        ],
+        [
+          640.0,
+          101.0
+        ],
+        [
+          640.0,
+          177.0
+        ],
+        [
+          570.0,
+          177.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          1037.0,
+          341.0
+        ],
+        [
+          1091.0,
+          341.0
+        ],
+        [
+          1091.0,
+          430.0
+        ],
+        [
+          1037.0,
+          430.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          1128.0,
+          4.0
+        ],
+        [
+          1246.0,
+          4.0
+        ],
+        [
+          1246.0,
+          122.0
+        ],
+        [
+          1128.0,
+          122.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "YYCHJ-T3-054__20260317__20260317203839171.jpg",
+  "imageData": null,
+  "imageHeight": 1200,
+  "imageWidth": 1600
+}

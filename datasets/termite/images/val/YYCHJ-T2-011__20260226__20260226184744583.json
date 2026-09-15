@@ -1,0 +1,68 @@
+{
+  "version": "4.0.0-beta.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "mud_tube",
+      "score": null,
+      "points": [
+        [
+          1077.3493975903614,
+          219.03614457831324
+        ],
+        [
+          1278.5542168674697,
+          219.03614457831324
+        ],
+        [
+          1278.5542168674697,
+          428.6746987951807
+        ],
+        [
+          1077.3493975903614,
+          428.6746987951807
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "mud_tube",
+      "score": null,
+      "points": [
+        [
+          549.6385542168674,
+          212.40963855421685
+        ],
+        [
+          968.9156626506024,
+          212.40963855421685
+        ],
+        [
+          968.9156626506024,
+          717.8313253012047
+        ],
+        [
+          549.6385542168674,
+          717.8313253012047
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "YYCHJ-T2-011__20260226__20260226184744583.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

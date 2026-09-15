@@ -1,0 +1,591 @@
+{
+  "version": "4.0.0-beta.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "mud_tube",
+      "score": null,
+      "points": [
+        [
+          174.3373493975904,
+          2.1686746987951944
+        ],
+        [
+          1279.0,
+          2.1686746987951944
+        ],
+        [
+          1279.0,
+          611.8072289156626
+        ],
+        [
+          174.3373493975904,
+          611.8072289156626
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "termite",
+      "score": null,
+      "points": [
+        [
+          497.22891566265065,
+          532.2891566265059
+        ],
+        [
+          561.6867469879518,
+          532.2891566265059
+        ],
+        [
+          561.6867469879518,
+          641.3253012048192
+        ],
+        [
+          497.22891566265065,
+          641.3253012048192
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "termite",
+      "score": null,
+      "points": [
+        [
+          140.60240963855426,
+          21.44578313253013
+        ],
+        [
+          235.1807228915663,
+          21.44578313253013
+        ],
+        [
+          235.1807228915663,
+          90.72289156626506
+        ],
+        [
+          140.60240963855426,
+          90.72289156626506
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "termite",
+      "score": null,
+      "points": [
+        [
+          104.45783132530127,
+          424.4578313253012
+        ],
+        [
+          185.78313253012053,
+          424.4578313253012
+        ],
+        [
+          185.78313253012053,
+          453.9759036144578
+        ],
+        [
+          104.45783132530127,
+          453.9759036144578
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "termite",
+      "score": null,
+      "points": [
+        [
+          117.10843373493981,
+          361.2048192771084
+        ],
+        [
+          179.75903614457837,
+          361.2048192771084
+        ],
+        [
+          179.75903614457837,
+          394.33734939759034
+        ],
+        [
+          117.10843373493981,
+          394.33734939759034
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "termite",
+      "score": null,
+      "points": [
+        [
+          1023.734939759036,
+          1.5662650602409773
+        ],
+        [
+          1066.5060240963855,
+          1.5662650602409773
+        ],
+        [
+          1066.5060240963855,
+          61.80722891566266
+        ],
+        [
+          1023.734939759036,
+          61.80722891566266
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "termite",
+      "score": null,
+      "points": [
+        [
+          1061.6867469879517,
+          141.9277108433735
+        ],
+        [
+          1135.1807228915661,
+          141.9277108433735
+        ],
+        [
+          1135.1807228915661,
+          205.78313253012047
+        ],
+        [
+          1061.6867469879517,
+          205.78313253012047
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "termite",
+      "score": null,
+      "points": [
+        [
+          996.6265060240962,
+          273.2530120481928
+        ],
+        [
+          1083.9759036144578,
+          273.2530120481928
+        ],
+        [
+          1083.9759036144578,
+          322.0481927710843
+        ],
+        [
+          996.6265060240962,
+          322.0481927710843
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "termite",
+      "score": null,
+      "points": [
+        [
+          1024.9397590361446,
+          338.91566265060237
+        ],
+        [
+          1068.313253012048,
+          338.91566265060237
+        ],
+        [
+          1068.313253012048,
+          434.69879518072287
+        ],
+        [
+          1024.9397590361446,
+          434.69879518072287
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "termite",
+      "score": null,
+      "points": [
+        [
+          657.4698795180723,
+          322.6506024096385
+        ],
+        [
+          744.2168674698795,
+          322.6506024096385
+        ],
+        [
+          744.2168674698795,
+          393.73493975903614
+        ],
+        [
+          657.4698795180723,
+          393.73493975903614
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "termite",
+      "score": null,
+      "points": [
+        [
+          674.3373493975903,
+          406.9879518072289
+        ],
+        [
+          742.4096385542168,
+          406.9879518072289
+        ],
+        [
+          742.4096385542168,
+          446.7469879518072
+        ],
+        [
+          674.3373493975903,
+          446.7469879518072
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "termite",
+      "score": null,
+      "points": [
+        [
+          821.3253012048192,
+          503.9759036144578
+        ],
+        [
+          865.9036144578313,
+          503.9759036144578
+        ],
+        [
+          865.9036144578313,
+          584.0963855421686
+        ],
+        [
+          821.3253012048192,
+          584.0963855421686
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "termite",
+      "score": null,
+      "points": [
+        [
+          739.9999999999999,
+          170.8433734939759
+        ],
+        [
+          801.4457831325301,
+          170.8433734939759
+        ],
+        [
+          801.4457831325301,
+          246.144578313253
+        ],
+        [
+          739.9999999999999,
+          246.144578313253
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "termite",
+      "score": null,
+      "points": [
+        [
+          950.2409638554216,
+          216.6265060240964
+        ],
+        [
+          1056.2650602409637,
+          216.6265060240964
+        ],
+        [
+          1056.2650602409637,
+          263.6144578313253
+        ],
+        [
+          950.2409638554216,
+          263.6144578313253
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "termite",
+      "score": null,
+      "points": [
+        [
+          1195.421686746988,
+          334.09638554216866
+        ],
+        [
+          1247.2289156626505,
+          334.09638554216866
+        ],
+        [
+          1247.2289156626505,
+          411.2048192771084
+        ],
+        [
+          1195.421686746988,
+          411.2048192771084
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "termite",
+      "score": null,
+      "points": [
+        [
+          1186.987951807229,
+          414.8192771084337
+        ],
+        [
+          1267.7108433734938,
+          414.8192771084337
+        ],
+        [
+          1267.7108433734938,
+          463.6144578313253
+        ],
+        [
+          1186.987951807229,
+          463.6144578313253
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "termite",
+      "score": null,
+      "points": [
+        [
+          1152.0481927710841,
+          409.39759036144574
+        ],
+        [
+          1194.8192771084337,
+          409.39759036144574
+        ],
+        [
+          1194.8192771084337,
+          474.4578313253012
+        ],
+        [
+          1152.0481927710841,
+          474.4578313253012
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "termite",
+      "score": null,
+      "points": [
+        [
+          440.0,
+          210.0
+        ],
+        [
+          512.8915662650602,
+          210.0
+        ],
+        [
+          512.8915662650602,
+          253.97590361445782
+        ],
+        [
+          440.0,
+          253.97590361445782
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "termite",
+      "score": null,
+      "points": [
+        [
+          499.6385542168675,
+          378.6746987951807
+        ],
+        [
+          580.3614457831325,
+          378.6746987951807
+        ],
+        [
+          580.3614457831325,
+          423.855421686747
+        ],
+        [
+          499.6385542168675,
+          423.855421686747
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "termite",
+      "score": null,
+      "points": [
+        [
+          832.1686746987951,
+          308.1927710843373
+        ],
+        [
+          953.2530120481927,
+          308.1927710843373
+        ],
+        [
+          953.2530120481927,
+          375.0602409638554
+        ],
+        [
+          832.1686746987951,
+          375.0602409638554
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "YYCHJ-T2-025__20251221__20251221102657794.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280,
+  "description": ""
+}

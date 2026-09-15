@@ -1,0 +1,504 @@
+{
+  "version": "4.0.0-beta.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          714.0,
+          1019.0
+        ],
+        [
+          814.0,
+          1019.0
+        ],
+        [
+          814.0,
+          1082.0
+        ],
+        [
+          714.0,
+          1082.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          292.0,
+          498.0
+        ],
+        [
+          462.0,
+          498.0
+        ],
+        [
+          462.0,
+          661.0
+        ],
+        [
+          292.0,
+          661.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          131.0,
+          373.0
+        ],
+        [
+          257.0,
+          373.0
+        ],
+        [
+          257.0,
+          504.0
+        ],
+        [
+          131.0,
+          504.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          254.0,
+          759.0
+        ],
+        [
+          363.0,
+          759.0
+        ],
+        [
+          363.0,
+          837.0
+        ],
+        [
+          254.0,
+          837.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          951.0,
+          137.0
+        ],
+        [
+          1005.0,
+          137.0
+        ],
+        [
+          1005.0,
+          227.0
+        ],
+        [
+          951.0,
+          227.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          1147.0,
+          5.0
+        ],
+        [
+          1269.0,
+          5.0
+        ],
+        [
+          1269.0,
+          65.0
+        ],
+        [
+          1147.0,
+          65.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          1246.0,
+          54.0
+        ],
+        [
+          1322.0,
+          54.0
+        ],
+        [
+          1322.0,
+          102.0
+        ],
+        [
+          1246.0,
+          102.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": true,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          607.0,
+          1.0
+        ],
+        [
+          672.0,
+          1.0
+        ],
+        [
+          672.0,
+          98.0
+        ],
+        [
+          607.0,
+          98.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          15.0,
+          13.0
+        ],
+        [
+          128.0,
+          13.0
+        ],
+        [
+          128.0,
+          98.0
+        ],
+        [
+          15.0,
+          98.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          80.0,
+          3.0
+        ],
+        [
+          185.0,
+          3.0
+        ],
+        [
+          185.0,
+          63.0
+        ],
+        [
+          80.0,
+          63.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          761.0,
+          12.0
+        ],
+        [
+          832.0,
+          12.0
+        ],
+        [
+          832.0,
+          105.0
+        ],
+        [
+          761.0,
+          105.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          819.0,
+          72.0
+        ],
+        [
+          934.0,
+          72.0
+        ],
+        [
+          934.0,
+          120.0
+        ],
+        [
+          819.0,
+          120.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          954.0,
+          61.0
+        ],
+        [
+          1003.0,
+          61.0
+        ],
+        [
+          1003.0,
+          141.0
+        ],
+        [
+          954.0,
+          141.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          975.0,
+          33.0
+        ],
+        [
+          1022.0,
+          33.0
+        ],
+        [
+          1022.0,
+          106.0
+        ],
+        [
+          975.0,
+          106.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          1010.0,
+          12.0
+        ],
+        [
+          1090.0,
+          12.0
+        ],
+        [
+          1090.0,
+          64.0
+        ],
+        [
+          1010.0,
+          64.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          901.0,
+          3.0
+        ],
+        [
+          963.0,
+          3.0
+        ],
+        [
+          963.0,
+          57.0
+        ],
+        [
+          901.0,
+          57.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          728.0,
+          458.0
+        ],
+        [
+          809.0,
+          458.0
+        ],
+        [
+          809.0,
+          571.0
+        ],
+        [
+          728.0,
+          571.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "YYCHJ-T3-054__20260318__20260318064231405.jpg",
+  "imageData": null,
+  "imageHeight": 1200,
+  "imageWidth": 1600,
+  "description": ""
+}

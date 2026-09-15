@@ -1,0 +1,126 @@
+{
+  "version": "4.0.0-beta.3",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          619.047619047619,
+          39.04761904761905
+        ],
+        [
+          721.9047619047618,
+          39.04761904761905
+        ],
+        [
+          721.9047619047618,
+          118.09523809523809
+        ],
+        [
+          619.047619047619,
+          118.09523809523809
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          1000.0,
+          13.333333333333332
+        ],
+        [
+          1066.6666666666665,
+          13.333333333333332
+        ],
+        [
+          1066.6666666666665,
+          100.95238095238095
+        ],
+        [
+          1000.0,
+          100.95238095238095
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          3.809523809523796,
+          155.23809523809524
+        ],
+        [
+          178.09523809523807,
+          155.23809523809524
+        ],
+        [
+          178.09523809523807,
+          266.6666666666667
+        ],
+        [
+          3.809523809523796,
+          266.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "common_ant",
+      "score": null,
+      "points": [
+        [
+          705.7142857142857,
+          3.809523809523809
+        ],
+        [
+          735.2380952380952,
+          3.809523809523809
+        ],
+        [
+          735.2380952380952,
+          21.9047619047619
+        ],
+        [
+          705.7142857142857,
+          21.9047619047619
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "YYCHJ-T3-054__20260319__20260319183616197.jpg",
+  "imageData": null,
+  "imageHeight": 1200,
+  "imageWidth": 1600
+}
