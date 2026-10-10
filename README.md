@@ -10,7 +10,7 @@ The repository contains the annotated image dataset, the training configuration 
 
 | Path | Description |
 |---|---|
-| `datasets/termite/images/` | 163 images acquired on the Beijiang Levee, Guangdong, China, between November 2025 and April 2026: 76 images (1280 × 720 px) from six of the TBS stations described in the paper (station IDs `YYCHJ-T2-*`) and 87 images (1600 × 1200 px) from three monitoring stations of another type used in the same project (station IDs `YYCHJ-T3-*`). File names follow `<station ID>__<date>__<timestamp>.jpg`. |
+| `datasets/termite/images/` | 163 images acquired between November 2025 and April 2026 by nine monitoring stations in the Chihuaji termite source area of the Beijiang Levee, Guangdong, China, which is separate from the Shangdou area where the 268 stations of the field trial were installed: 76 images (1280 × 720 px) from six TBS stations of the same model as those used in the trial (station IDs `YYCHJ-T2-*`) and 87 images (1600 × 1200 px) from three monitoring stations of another type used in the same project (station IDs `YYCHJ-T3-*`). No images from the 268 trial stations are included. File names follow `<station ID>__<date>__<timestamp>.jpg`. |
 | `datasets/termite/images/*/*.json` | Original annotations (LabelMe 4.0.0, rectangular bounding boxes). |
 | `datasets/termite/labels/` | Annotations converted to YOLO format. |
 | `datasets/termite/data.yaml` | Dataset configuration (5 classes). |
