@@ -10,7 +10,7 @@ The repository contains the annotated image dataset, the training configuration 
 
 | Path | Description |
 |---|---|
-| `datasets/termite/images/` | 163 images (1600 × 1200 or 1280 × 720 px) acquired by the cameras of nine TBS stations on the Beijiang Levee, Guangdong, China, between November 2025 and April 2026. File names follow `<station ID>__<date>__<timestamp>.jpg`. |
+| `datasets/termite/images/` | 163 images acquired on the Beijiang Levee, Guangdong, China, between November 2025 and April 2026: 76 images (1280 × 720 px) from six of the TBS stations described in the paper (station IDs `YYCHJ-T2-*`) and 87 images (1600 × 1200 px) from three monitoring stations of another type used in the same project (station IDs `YYCHJ-T3-*`). File names follow `<station ID>__<date>__<timestamp>.jpg`. |
 | `datasets/termite/images/*/*.json` | Original annotations (LabelMe 4.0.0, rectangular bounding boxes). |
 | `datasets/termite/labels/` | Annotations converted to YOLO format. |
 | `datasets/termite/data.yaml` | Dataset configuration (5 classes). |
@@ -33,7 +33,7 @@ Classes: `termite`, `mud_tube`, `red_imported_fire_ant`, `common_ant`, `ant_egg`
 | Background images | 28 | 2 |
 | Total images | 112 | 51 |
 
-The split was made at the image level, so images from one station appear in both sets and the two sets overlap in time. No independent test set is available; the validation metrics should therefore be regarded as preliminary.
+The images from the `YYCHJ-T3-*` stations, whose monitoring chamber differs from that of the TBS, were used only for training; they contain common ants, ant eggs and background scenes. All termite and mud-tube instances and all validation images come from the TBS stations. The split was made at the image level, so images from one station appear in both sets and the two sets overlap in time. No independent test set is available; the validation metrics should therefore be regarded as preliminary.
 
 ## Training configuration
 
